@@ -12,7 +12,7 @@ Additionally:
 
 ## Run locally
 
-Edit the necessary RPC endpoints and private keys in `hardhat.config.js`. It is recommended to run the test suite against Chainlink's [Kovan or Rinkeby](https://docs.chain.link/docs/vrf-contracts/) deployments, to remove the need to simulate Chainlink VRF responses.
+Edit the necessary RPC endpoints and private keys in `hardhat.config.js`. It is recommended to run the test suite against Chainlink's(https://docs.chain.link/docs/vrf-contracts/) deployments, to remove the need to simulate Chainlink VRF responses.
 
 ```bash
 # Install dependencies
